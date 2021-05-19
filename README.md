@@ -10,5 +10,9 @@
 - ###### Provider/Changenotifier
 - ###### PathUrl strategy
 
+In when using Flutter Web with null-safety you will experience the following crash
+```Error: Expected a value of type 'Object', but got one of type 'Null'```
+There doesn't seem to be a fix for it atm, but at least it doesn't impact the app.
+
 A small donation would be appreciated
 https://www.paypal.com/paypalme/christermuntean
