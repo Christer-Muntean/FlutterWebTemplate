@@ -15,4 +15,4 @@ When using Flutter Web with null-safety you will experience the following crash
 There doesn't seem to be a fix for it atm, but at least it doesn't impact the app.
 
 A small donation would be appreciated
-https://www.paypal.com/paypalme/christermuntean
+https://www.paypal.com/paypalme/christermuntean 🙏
