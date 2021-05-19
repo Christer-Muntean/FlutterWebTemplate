@@ -3,6 +3,10 @@
 ###### Remember to create a Firebase project, add the script to index.html, and enable Google authentication.
 ###### Also remember to implement this configuratuion: https://flutter.dev/docs/development/ui/navigation/url-strategies
 
+###### Add web support to an existing app
+To add web support to an existing project created using a previous version of Flutter, run the following command from your project’s directory:
+```flutter create .```
+
 
 ## Features
 - ###### FlutterFire
