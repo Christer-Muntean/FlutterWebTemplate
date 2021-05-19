@@ -3,7 +3,7 @@
 ### TODO:
 
 - ###### Add web support to an existing app. Run the following command from your project’s directory:
--- ```flutter create .```
+```flutter create .```
 
 - ###### Create a Firebase project, add the script to index.html, and enable Google authentication.
 - ###### Implement this configuratuion: https://flutter.dev/docs/development/ui/navigation/url-strategies
