@@ -1,6 +1,6 @@
 # Flutter Web Template - Firebase Auth
 
-###### Remember to create a Firebase project, and add the script to index.html
+###### Remember to create a Firebase project, add the script to index.html, and enable Google authentication.
 ###### Also remember to implement this configuratuion: https://flutter.dev/docs/development/ui/navigation/url-strategies
 
 
