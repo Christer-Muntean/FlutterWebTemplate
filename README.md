@@ -10,5 +10,5 @@
 - ###### Provider/Changenotifier
 - ###### PathUrl strategy
 
-A small dontaion would be apriciated
+A small donation would be appreciated
 https://www.paypal.com/paypalme/christermuntean
