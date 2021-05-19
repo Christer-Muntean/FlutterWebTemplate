@@ -1,9 +1,9 @@
 # Flutter Web Template - Firebase Auth
 
 ### TODO:
-##### Add web support to an existing app
-###### To add web support to an existing project created using a previous version of Flutter, run the following command from your project’s directory:
-- ```flutter create .```
+
+- ###### Add web support to an existing app. Run the following command from your project’s directory:
+-- ```flutter create .```
 
 - ###### Create a Firebase project, add the script to index.html, and enable Google authentication.
 - ###### Implement this configuratuion: https://flutter.dev/docs/development/ui/navigation/url-strategies
