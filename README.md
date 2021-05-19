@@ -1,6 +1,6 @@
 # Flutter Web Template - Firebase Auth
 
-## TODO:
+### TODO:
 ##### Add web support to an existing app
 ###### To add web support to an existing project created using a previous version of Flutter, run the following command from your project’s directory:
 - ```flutter create .```
@@ -9,7 +9,7 @@
 - ###### Implement this configuratuion: https://flutter.dev/docs/development/ui/navigation/url-strategies
 
 
-## Features
+### Features
 - ###### FlutterFire
 - ###### Nullsafety
 - ###### Provider/Changenotifier
